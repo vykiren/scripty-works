@@ -1,5 +1,3 @@
-﻿#Benjamin Everson 1/2/2020
-#
 #Note: If you are creating a series of login/pwd instances for use in the same script then the variable $credential must be iterated.
 #Example
 #$credential
