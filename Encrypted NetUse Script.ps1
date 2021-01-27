@@ -1,4 +1,3 @@
-﻿#Benjamin Everson 1/2/2020
 #User Login Requirements and mount the network path
 $pwd = Get-Content "Path to salted login.txt file"
 $securePwd = $pwd | ConvertTo-SecureString -AsPlainText -Force
